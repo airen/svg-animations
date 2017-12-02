@@ -10,9 +10,9 @@ SVG动画的英文原著是@Sarah Drasner的大作，原著书名《SVG Animatio
 
 ## 大纲
 
-- [剖析SVG](Ch1.md)
-- [使用CSS制作SVG动画](Ch2.md)
-- [CSS 动画和手绘 SVG Sprites](Ch3.md)
+- [第1章：剖析SVG](Ch1.md)
+- [第2章：使用CSS制作SVG动画](Ch2.md)
+- [第3章：CSS 动画和手绘 SVG Sprites](Ch3.md)
 - [...]
 
 ## 专业术语
