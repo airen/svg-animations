@@ -1,8 +1,24 @@
-# svg-animations
-SVG Animations Book
+# SVG 动画
+
+SVG动画的英文原著是@Sarah Drasner的大作，原著书名《SVG Animations》。中文由电子工业出版社委托社区同学：@大漠、@姜天意、@张耀春、@欧阳湘粤和@田淮仁 翻译。
+
+![](images/cover.png)
+
+目前完成初稿，正在较稿和审稿当中。
+
+> **特别声明，由于我们水平有限，如果翻译不对之处还请各路大婶拍正。如果您英文阅读无障碍，更建议您直接购买英文版本阅读！**
+
+## 大纲
+
+- [剖析SVG](Ch1.md)
+- [使用CSS制作SVG动画](Ch2.md)
+- [CSS 动画和手绘 SVG Sprites](Ch3.md)
+- [...]
 
 ## 专业术语
 
 - Sprite => Sprite(精灵/雪碧)
 - Icon => Icon
 - Keyframes Animation => 关键帧动画
+
+> **特别声明：如果未得到授权，严禁转载本仓库下的任何内容，包括代码和图片！如有造成侵权，出版方有权追究相关的法律责任！**
