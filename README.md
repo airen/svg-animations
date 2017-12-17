@@ -15,12 +15,8 @@ SVG动画的英文原著是@Sarah Drasner的大作，原著书名《SVG Animatio
 - [第3章：CSS 动画和手绘 SVG Sprites](Ch3.md)
 - [第4章：创建响应式 SVG Sprite](Ch4.md)
 - [第5章：不使用任何额外库来创建 UI/UX 动画](Ch5.md)
+- [第6章：动态数据可视化](Ch6.md)
 - [...]
 
-## 专业术语
-
-- Sprite => Sprite(精灵/雪碧)
-- Icon => Icon
-- Keyframes Animation => 关键帧动画
 
 > **特别声明：如果未得到授权，严禁转载本仓库下的任何内容，包括代码和图片！如有造成侵权，出版方有权追究相关的法律责任！**
