@@ -2,7 +2,7 @@
 
 SVG动画的英文原著是@Sarah Drasner的大作，原著书名《SVG Animations》。中文由电子工业出版社委托社区同学：@大漠、@姜天意、@张耀春、@欧阳湘粤和@田淮仁 翻译。
 
-![](images/cover.png)
+![](docs/images/cover.png)
 
 目前完成初稿，正在较稿和审稿当中。
 
