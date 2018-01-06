@@ -1,4 +1,4 @@
-# GreenSock 的 Timeline 库
+# 第9章：GreenSock 的 Timeline 库
 
 在上一节内容中我们讲述了GreenSock tweening 库函数。 而在这章内容中，我们将翻到我对于GreenSock中最爱的一个功能： 时间线（timeline）
 
